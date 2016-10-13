@@ -1,45 +1,45 @@
 ---
 layout: article
-title: "JavaFX 8 Tutorial - Part 1: Scene Builder"
+title: "JavaFX 8 သင်ခန်းစာ - အပိုင်း　၁　- Scene Builder"
 date: 2014-04-19 01:00
 updated: 2015-03-12 00:00
 slug: javafx-8-tutorial/part1
 github: https://github.com/marcojakob/code.makery.ch/edit/master/collections/library/javafx-8-tutorial-en-part1.md
-description: "Learn how to set up a JavaFX project. This is part one of a seven-part tutorial about designing, programming and deploying an address application with JavaFX."
+description: "JavaFX Project တည်ဆောက်ခြင်းခြင်း။ JavaFX ဖြင့် လိပ်စာထည့်သွင်းသည့် ဆော့ဝဲလ်ကို ရေးသားတည်ဆောက်သော အပိုင်း၇ပိုင်းအနက်တစ်ပိုင်းဖြစ်သည်။"
 image: /assets/library/javafx-8-tutorial/part1/addressapp-part1.png
 published: true
 prettify: true
 comments: 
   identifier: /java/javafx-8-tutorial-part1/
 sidebars:
-- header: "Articles in this Series"
+- header: "သင်ခန်းစာအပိုင်းများ"
   body:
-  - text: "Introduction"
+  - text: "မိတ်ဆက်ခြင်း"
     link: /library/javafx-8-tutorial/
-    paging: Intro
-  - text: "Part 1: Scene Builder"
+    paging: မိတ်ဆက်
+  - text: "အပိုင်း ၁၊ Scene Builder"
     link: /library/javafx-8-tutorial/part1/
-    paging: 1
+    paging: ၁
     active: true
-  - text: "Part 2: Model and TableView"
+  - text: "အပိုင်း ၂၊ Model and TableView"
     link: /library/javafx-8-tutorial/part2/
-    paging: 2
-  - text: "Part 3: Interacting with the User"
+    paging: ၂
+  - text: "အပိုင်း ၃၊ အသုံးပြုသူနှင့် အပြန်အလှန်ဆက်သွယ်ခြင်း"
     link: /library/javafx-8-tutorial/part3/
-    paging: 3
-  - text: "Part 4: CSS Styling"
+    paging: ၃
+  - text: "အပိုင်း ၄၊ CSS ဖြင့်အလှဆင်ခြင်း"
     link: /library/javafx-8-tutorial/part4/
-    paging: 4
-  - text: "Part 5: Storing Data as XML"
+    paging: ၄
+  - text: "အပိုင်း ၅၊ အချက်အလက်အား XML အနေဖြင့်သိမ်းဆည်းခြင်း"
     link: /library/javafx-8-tutorial/part5/
-    paging: 5
-  - text: "Part 6: Statistics Chart"
+    paging: ၅
+  - text: "အပိုင်း ၆၊ အချက်အလက်ပြဇယား"
     link: /library/javafx-8-tutorial/part6/
-    paging: 6
-  - text: "Part 7: Deployment"
+    paging: ၆
+  - text: "အပိုင်း ၇၊ အသုံးပြုရန် ထုတ်လုပ်ခြင်း"
     link: /library/javafx-8-tutorial/part7/
-    paging: 7
-- header: "Download Sources"
+    paging: ၈
+- header: "မူရင်းအား ဒေါင်းလုဒ်လုပ်ရန်"
   body:
   - text: Part 1 as Eclipse Project <em>(requires at least JDK 8u40)</em>
     link: https://github.com/marcojakob/tutorial-javafx-8/releases/download/v1.1/addressapp-jfx8u40-part-1.zip
